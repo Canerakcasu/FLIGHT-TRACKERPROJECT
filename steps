@@ -1,10 +1,10 @@
 step by step plan for chatbot
 
-1.  Define the Purpose –  users with flight status airport info,type of the plane,the how long gnna take and etc
-2.	Choose a  Platform – Options: chatgpt ai api,deepseek ai api,gemini ai api.
-3.	Think Design,the color,name of the ai, 
-4.	Implement Backend Integration add it to the our website which we already made previous semester  Connect to flight APIs to fetch real-time data.
-5.	Develop the Frontend Interface – Add a chat widget using JavaScript, HTML, and CSS.
-6.	Train and Test the Chatbot – machine learning project tho
-7.	Deploy the Chatbot find the host where you can save 
-8.	Monitor,Improve and test then finish the project
+Define the Purpose –  users with flight status airport info,type of the plane,the how long gnna take and etc
+Choose a  Platform – Options: chatgpt ai api,deepseek ai api,gemini ai api.
+Think Design,the color,name of the ai, 
+Implement Backend Integration add it to the our website which we already made previous semester  Connect to flight APIs to fetch real-time data.
+Develop the Frontend Interface – Add a chat widget using JavaScript, HTML, and CSS.
+Train and Test the Chatbot – machine learning project tho
+Deploy the Chatbot find the host where you can save 
+Monitor,Improve and test then finish the project
